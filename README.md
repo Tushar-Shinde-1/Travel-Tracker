@@ -26,15 +26,19 @@ This is a simple Node.js and PostgreSQL web application that allows users to vie
 ## 📁 Project Structure
 
 project-folder/
+Travel-Tracker/
 │
-├── public/ # Static files (CSS, images, etc.)
-├── views/ # EJS templates (index.ejs)
-├── index.js # Main Express app
-├── package.json
-└── README.md
+├── 📁 public/                        # Static assets
+│   └── main.css                   # Optional: CSS file
+│
+├── 📁 views/                        # EJS templates
+│   ├── index.ejs                   # Main page
+│   
+│
+├── 📄 index.js                     # Main Express server file
+├── 📄 package.json                 # NPM dependencies and scripts
+├── 📄 README.md                    # Project documentation
 
-
----
 
 ## ⚙️ Setup Instructions
 

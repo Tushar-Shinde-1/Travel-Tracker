@@ -44,7 +44,7 @@ Travel-Tracker/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/country-visit-tracker.git
+git clone https://github.com/Tushar-Shinde-1/Travel-Tracker.git
 cd country-visit-tracker
 ```
 
